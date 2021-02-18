@@ -1,0 +1,7 @@
+execfile('S21_quick_1.py')
+execfile('S21_quick_2.py')
+execfile('S21_quick_3.py')
+execfile('S21_quick_4.py')
+execfile('S21_quick_5.py')
+execfile('S21_quick_6.py')
+execfile('S21_quick_7.py')
