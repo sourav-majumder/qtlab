@@ -1,0 +1,30 @@
+Loading files
+=============
+
+There are a couple of options:
+
+- specify filenames on the command line (for nerds)
+
+- load files using the "Load..." button
+
+- Drag and drop files onto the spyview control window: this will add
+  them to the file list.
+
+
+Postscript Preview command
+==========================
+
+It should now work by default, as long as you have gsview installed on
+the c: drive.
+
+If it does not work, check the preview command under the postscript
+controls: it should be set to:
+
+start /min preview.bat "%s"
+
+If it is not, reset it to this value and save to the default settings
+by using the "Save Settings" button in the spyview controls window and
+selecting "default.svs".
+
+If gsview32.exe is installed in a non-standard location, just edit
+preview.bat to put point to where it is installed.
