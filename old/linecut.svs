@@ -1,0 +1,2 @@
+22 serialization::archive 3 0 4 0 4 16384 49151 0.10000000000000001 0.10000000000000001 1 10 0 0 0 0 1 0 0 0 0 0 0 1 6 xderiv 2 1 0
+0 6 xderiv 38 Take an x derivative of the image data 1 0 0 0 0 0 0 60 11 Seismic.ppm 0 0 1 0 0 2 YZ 0 0 1 l 1 0 1 0 1 24 run gv --watch "%s.ps" & 0

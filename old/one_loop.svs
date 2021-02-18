@@ -1,0 +1,2 @@
+22 serialization::archive 3 0 2 0 4 16911 48104 0.10000000000000001 0.10000000000000001 -4 1 1 0 0 0 1 0 0 0 0 0 0 1 10 rotate ccw 2 1 0
+0 10 rotate ccw 48 Rotate the image by 90 degrees counter clockwise 1 0 0 0 0 0 0 0 14 0greyscale.ppm 0 0 1 0 0 2 YZ 0 0 2 lp 1 0 1 0

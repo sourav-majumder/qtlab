@@ -1,0 +1,2 @@
+22 serialization::archive 3 0 4 0 4 16402 43250 0.10000000000000001 0.10000000000000001 1 1 1 0 0 0 1 0 0 0 0 0 0 1 10 rotate ccw 2 1 0
+0 10 rotate ccw 48 Rotate the image by 90 degrees counter clockwise 1 0 0 0 0 0 0 60 11 Seismic.ppm 0 0 1 0 0 2 YZ 0 0 1 l 1 0 1 0 1 24 run gv --watch "%s.ps" & 0
