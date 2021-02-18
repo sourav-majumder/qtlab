@@ -1,0 +1,15 @@
+#inner loop
+401
+0
+15
+Delay (us)
+#outer loop
+100
+349
+260
+Left (points)
+#outermost loop
+1
+0
+1
+Nothing

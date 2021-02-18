@@ -1,0 +1,7 @@
+xtick.direction: in
+ytick.direction: in
+xtick.top: True
+ytick.right: True
+grid.color       :   k       # grid color
+grid.linestyle   :   :       # dotted
+grid.linewidth   :   0.5     # in points
