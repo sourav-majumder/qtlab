@@ -1,0 +1,5 @@
+22 serialization::archive 3 0 8 0 5 20988 44990 0.10000000000000001 0.10000000000000001 -414 292 0 0 0 0 1 0 0 0 0 0 0 1 2 3 log 2 1 0
+0 3 log 39 Take logarithm (base 10) of intensities 1 2 0 0 2 0 0 21 !Auto subtract offset 0 7 New min 0.0001 10 scale data 2
+1 10 scale data 48 Scale and center the data (change dynamic range) 1 1 1 6 Factor 20 0 0 60 7 Seismic 0 0 1 0 2 2 XY 0 0 2 lp 3 1 4 1 0  1 0 0 3 0 0 0 0 2 11 1 0
+2 0 0 0 0 0 0 0 11
+3 0 1 0.412381 0.21262 0.019342999999999999 3 512 0 8 Straight 0 3 LAB 0 3 LAB 0 0 3 Luv 4 %.1f
